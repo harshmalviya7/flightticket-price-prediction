@@ -110,7 +110,7 @@ def predict():
 		
 
 
-	return render_template("index.html",Destination=f'Predicted price is {my_prediction} ')
+	return render_template("index.html",output=f'Predicted price is {my_prediction} ')
 
 if __name__ == '__main__':
 	app.run(debug=True)
