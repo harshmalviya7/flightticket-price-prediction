@@ -5,7 +5,7 @@ from datetime import datetime
 import pickle
 import numpy as np
 
-filename = 'flight1.pkl'
+filename = 'flight.pkl'
 regressor = pickle.load(open(filename, 'rb'))
 #Successfully installed joblib-0.17.0 numpy-1.19.4 scikit-learn-0.23.2 scipy-1.5.4 threadpoolctl-2.
 #1.0  pandas-1.1.4
