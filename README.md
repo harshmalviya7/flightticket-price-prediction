@@ -1,3 +1,3 @@
 # flightticket-price-prediction
 
-[![](https://imgur.com/QFn1brs)](https://flightticket-price-prediction.herokuapp.com/)
+[![]([img]https://i.imgur.com/QFn1brs.jpg[/img])](https://flightticket-price-prediction.herokuapp.com/)
