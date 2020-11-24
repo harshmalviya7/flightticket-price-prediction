@@ -4,8 +4,8 @@
   * [Overview](#overview)
   * [Demo](#demo)
   * [Dataset](#data)
-  * [Directory Tree](#directory)
-  * [Technologies Used](#Technologies Used)
+  * [Directory Tree](#directory-tree)
+  * [Technologies Used](#Technologies-Used)
   
   
 
@@ -18,13 +18,13 @@ Flight Ticket Price Prediction-
 It is an regression problem where given a set of features we need to predict the price of ticket from one city to another.
 
 ## Demo
-*Heroku Deployed Link -[https://flightticket-price-prediction.herokuapp.com/]
+ ### Heroku Deployed Link --> [ https://flightticket-price-prediction.herokuapp.com/ ]
 
 [![](https://i.imgur.com/AliS4eh.jpg)](https://flightticket-price-prediction.herokuapp.com/)
 [![](https://i.imgur.com/B3C4JuB.jpg)](https://flightticket-price-prediction.herokuapp.com/)
 
 ## Data 
-Kaggle dataset link [https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh]
+Kaggle dataset link --> [ https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh  ]
 
 ## Directory Tree 
 ```
