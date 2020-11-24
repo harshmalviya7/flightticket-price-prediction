@@ -1,12 +1,46 @@
 # flightticket-price-prediction
 
 ## Table
-  *[Demo](#demo)
+  * [Overview](#overview)
+  * [Demo](#demo)
+  * [Dataset](#data)
+  * [Directory Tree](#Directory Tree)
+  * [Technologies Used](#Technologies Used)
+  
+  
 
+## Overview
+Flight Ticket Price Prediction-
+ * Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. 
+ * We might have often heard travellers saying that flight ticket prices are so unpredictable.
+ * Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities
+
+It is an regression problem where given a set of features we need to predict the price of ticket from one city to another.
 
 ## Demo
+Heroku Deployed Link -[https://flightticket-price-prediction.herokuapp.com/]
 [![](https://i.imgur.com/AliS4eh.jpg)](https://flightticket-price-prediction.herokuapp.com/)
 [![](https://i.imgur.com/B3C4JuB.jpg)](https://flightticket-price-prediction.herokuapp.com/)
+
+## Data 
+Kaggle dataset link [https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh]
+
+## Directory Tree 
+```
+├── static 
+│   ├── assets/img
+│   ├── css
+│   ├── font-awesome-4.7.0
+│   ├── js
+├── template
+│   ├── index.html
+├── Procfile
+├── README.md
+├── app.py
+├── Jupyter Notebook.ipynb
+├── flight.pkl
+├── requirements.txt
+```
 
 ## Technologies Used
 
