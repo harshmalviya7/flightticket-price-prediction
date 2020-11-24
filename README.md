@@ -1,4 +1,15 @@
 # flightticket-price-prediction
 
-[![](https://i.imgur.com/QFn1brs.jpg)](https://flightticket-price-prediction.herokuapp.com/)
-[img]https://i.imgur.com/QFn1brs.jpg[/img]
+## Table
+  *[Demo](#demo)
+
+
+## Demo
+[![](https://i.imgur.com/AliS4eh.jpg)](https://flightticket-price-prediction.herokuapp.com/)
+[![](https://i.imgur.com/B3C4JuB.jpg)](https://flightticket-price-prediction.herokuapp.com/)
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
